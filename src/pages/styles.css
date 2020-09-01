@@ -1,0 +1,14 @@
+/* .container{
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.box .id {
+  width: 50px;
+  height: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
